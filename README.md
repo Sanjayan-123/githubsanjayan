@@ -21,7 +21,4 @@ Successfully completed the activity and learned GitHub basics.
 ## Student Information
 Name: Sanjayan 
 Course: ECE  
-College: VSB Engineering College  
-
-## Conclusion
-This activity helped me gain basic knowledge about GitHub.
+College: VSB Engineering College
