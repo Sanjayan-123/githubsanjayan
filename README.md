@@ -3,7 +3,7 @@
 ## Introduction
 This repository is created for a college activity to practice using GitHub.
 
-## Aim
+## Aim 
 To understand how to create and manage a repository.
 
 ## Requirements
